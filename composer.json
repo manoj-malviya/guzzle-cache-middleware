@@ -1,5 +1,5 @@
 {
-  "name": "kevinrob/guzzle-cache-middleware",
+  "name": "manoj-malviya/guzzle-cache-middleware",
   "type": "library",
   "description": "A HTTP/1.1 Cache for Guzzle 6. It's a simple Middleware to be added in the HandlerStack. (RFC 7234)",
   "keywords": ["guzzle", "guzzle6", "cache", "http", "http 1.1", "psr6", "psr7", "handler", "middleware", "cache-control", "rfc7234", "performance", "php", "promise", "expiration", "validation", "Etag", "flysystem", "doctrine"],
@@ -18,8 +18,6 @@
   "require-dev": {
     "phpunit/phpunit": "^4.0 || ^5.0",
     "guzzlehttp/guzzle": "^6.0",
-    "doctrine/cache": "^1.0",
-    "league/flysystem": "^1.0",
     "psr/cache": "^1.0",
     "cache/array-adapter": "^0.4",
     "illuminate/cache": "^5.0"
